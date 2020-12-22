@@ -89,7 +89,7 @@ cast2			Faster Cast Rate	FCR
 cast3			Faster Cast Rate	FCR
 res-pois-len			Reduced Poison Duration	RedPoisDur
 dmg			Damage	Dmg
-howl			Howl	Howl
+howl			Chance To Fear Target	Fear
 stupidity			Stupidity	Stupidity
 ignore-ac			Ignore Target Defense	Ignore Def
 reduce-ac			Reduce Target Defense	RedDef
@@ -339,7 +339,7 @@ item_fasterblockrate			Block Rate	BlockRate
 item_fastercastrate			Faster Cast Rate	FCR
 item_poisonlengthresist			Reduced Poison Duration	RedPoisDur
 item_normaldamage			Damage	Dmg
-item_howl			Howl	Howl
+item_howl			Chance To Fear Target	Fear
 item_stupidity			Stupidity	Stupidity
 item_ignoretargetac			Ignore Target Defense	Ignore Target Defense
 item_fractionaltargetac			% Lower Target Defense	%RedDef
