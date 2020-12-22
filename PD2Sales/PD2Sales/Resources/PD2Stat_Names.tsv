@@ -1,0 +1,442 @@
+name	alias1	alias2	readableName	shortenedName
+ac			Armor	Arm
+ac-miss			Defense VS Missiles	MissileArmor
+ac-hth			ac-hth	ac-hth
+red-dmg			Reduced Damage Taken	DR
+red-dmg%			% Reduced Damage Taken	%DR
+ac%			% Enhanced Defense	%EDef
+red-mag			Reduced Magic Damage Taken	RMD
+str			Strength	Str
+dex			Dexterity	Dex
+vit			Vitality	Vit
+enr			Energy	Nrg
+mana			Mana	Mana
+mana%			%Mana	%Mana
+hp			HP	HP
+hp%			%HP	%HP
+att			Attack Damage	Atk
+block			Block	Block
+cold-min			Mininum Cold Damage	ColdMin
+cold-max			Maximum Cold Damage	ColdMax
+cold-len			Cold Duration	ColdDur
+fire-min			Minimum Fire Damage	FireMin
+fire-max			Maximum Fire Damage	FireMax
+ltng-min			Minimum Lightning Damage	LightMin
+ltng-max			Maximum Lightning Damage	LightMax
+pois-min			Minimum Poison Damage	PoisMin
+pois-max			Maximum Poison Damage	PoisMax
+pois-len			Poison Duration	PoisDur
+dmg-min			Minimum Damage	DmgMin
+dmg-max			Maximum Damage	DmgMax
+dmg%			% Damage Increased	%Dmg
+dmg-to-mana			Damage To Mana	DmgToMan
+res-fire			Fire Resistance	fireRes
+res-fire-max			Max Fire Resistance	fireResMax
+res-ltng			Lightning Resistance	lightRes
+res-ltng-max			Max Lightning Resistance	lightResMax
+res-cold			Cold Resistance	coldRes
+res-cold-max			Max Cold Resistance	coldResMax
+res-mag			Magic Resistance	magicRes
+res-mag-max			Max Magic Resistance	magicResMax
+res-pois			Poison Resistance	poisRes
+res-pois-max			Max Poison Resistance	poisResMax
+res-all			All Resistances	allRes
+res-all-max			Max All Resistances	allResMax
+abs-fire%			%Absorb Fire	%fireAbs
+abs-fire			Absorb Fire	fireAbs
+abs-ltng%			%Absorb Lightning	%lightAbs
+abs-ltng			Absorb Lightning	lightAbs
+abs-mag%			%Absorb Magic	%magicAbs
+abs-mag			Absorb Magic	magicAbs
+abs-cold%			%Absorb Cold	%coldAbs
+abs-cold			Absorb Cold	coldAbs
+dur			Durability	Dur
+dur%			%Durability	%Dur
+regen			Regenerate HP	Reg
+thorns			Thorns	Thorns
+swing1			Increased Attack Speed	IAS
+swing2			Increased Attack Speed	IAS
+swing3			Increased Attack Speed	IAS
+gold%			%Increased Gold Find	%Gold
+mag%			%Magic Find	%MF
+knock			Knockback	Knockback
+regen-stam			Recover Stamina	StamRec
+regen-mana			Regenerate Mana	ManaReg
+stam			Stamina	Sta
+time			Duration	Duration
+manasteal			Mana Leech	MPLch
+lifesteal			Life Leech	HPLch
+ama			Amazon Skills	Ama
+pal			Paladin Skills	Pal
+nec			Necromancer Skills	Nec
+sor			Sorceress Skills	Sor
+bar			Barbarian Skills	Bar
+herb			Herb Duration	HDuration
+light			Light Radius	LightRad
+color			Light Color	LightCol
+ease			Reduced Requirements	REQ
+move1			Faster Run Walk	FRW
+move2			Faster Run Walk	FRW
+move3			Faster Run Walk	FRW
+balance1			Faster Hit Recovery	FHR
+balance2			Faster Hit Recovery	FHR
+balance3			Faster Hit Recovery	FHR
+block1			Faster Block Rate	FBR
+block2			Faster Block Rate	FBR
+block3			Faster Block Rate	FBR
+cast1			Faster Cast Rate	FCR
+cast2			Faster Cast Rate	FCR
+cast3			Faster Cast Rate	FCR
+res-pois-len			Reduced Poison Duration	RedPoisDur
+dmg			Damage	Dmg
+howl			Howl	Howl
+stupidity			Stupidity	Stupidity
+ignore-ac			Ignore Target Defense	Ignore Def
+reduce-ac			Reduce Target Defense	RedDef
+noheal			Prevent Monster Heal	NoHeal
+half-freeze			Half Freeze Duration	HalfFreeze
+att%			%Hit Rate	%hit
+dmg-ac			Damage VS Defense	DmgDef
+dmg-demon			Damage VS Demons	DmgDem
+dmg-undead			Damage VS Undead	DmgUnd
+att-demon			Hit Rate VS Demons	HitDem
+att-undead			Hit Rate VS Undead	HitUnd
+throw			Throwable	Throw
+fireskill			Fire Skills	fSkills
+allskills			All Skills	allSkills
+light-thorns			Attacker Takes Lightning Damage	lDmgThorns
+freeze			Freezes Target	Freeze
+openwounds			%Open Wounds	%Wounds
+crush			%Crushing Blow	%Crush
+kick			Kick Damage	KickDmg
+mana-kill			Mana On Kill	ManaOnKill
+demon-heal			Heal On Demon Kill	HPperDemon
+bloody			Extra Bloody	Bloody
+deadly			%Deadly Strike	%DS
+slow			%Slow Target	%Slow
+nofreeze			Cannot Be Frozen	Cannot Be Frozen
+stamdrain			Stamina Drain	StamDrn
+reanimate			Reanimate	Revive
+pierce			%Pierce	%Pierce
+magicarrow			Fires Magic Arrows	MagArrows
+explosivearrow			Fires Explosive Arrows	ExpArrows
+Expansion			Expansion	Expansion
+dru			Druid Skills	Dru
+ass			Assassin Skills	Ass
+skill			Skill	Skill
+skilltab			SkillTab	Skills
+aura			Aura	Aura
+att-skill			Skill On Attack	AtkSkill
+hit-skill			Skill On Strike	OnStrike
+gethit-skill			Skill When Struck	OnGetHit
+gembonus			Increased Chance Of Finding Gems	GemChance
+regen-dur			Regen Duration	regen-dur
+fire-fx			fire-fx	fire-fx
+ltng-fx			ltng-fx	ltng-fx
+sock			Sockets	S
+dmg-fire			Maximum Fire Damage	fDmgMax
+dmg-ltng			Maximum Lightning Damage	lDmgMax
+dmg-mag			Maximum Magic Damage	magDmgMax
+dmg-cold			Maximum Cold Damage	cDmgMax
+dmg-pois			Maximum Poison Damage	pDmgMax
+dmg-throw			Maximum Throw Damage	throwDmgMax
+dmg-norm			Maximum Damage	dmgMax
+ac/lvl			Defense Per Level	defLvl
+ac%/lvl			%Defense Per Level	%defLvl
+hp/lvl			HP Per Level	HPLvl
+mana/lvl			MP Per Level	MPLvl
+dmg/lvl			Damage Per Level	DmgLvl
+dmg%/lvl			%Damage Per Level	%DmgLvl
+str/lvl			Strength Per Level	StrLvl
+dex/lvl			Dexterity Per Level	DexLvl
+enr/lvl			Energy Per Level	NrgLvl
+vit/lvl			Vitality Per Level	VitLvl
+att/lvl			Attack Per Level	AttLvl
+att%/lvl			%Attack Per Level	%AtkLvl
+dmg-cold/lvl			Cold Damage Per Level	coldDmgLvl
+dmg-fire/lvl			Fire Damage Per Level	fireDmgLvl
+dmg-ltng/lvl			Lightning Damage Per Level	lightDmgLvl
+dmg-pois/lvl			Poison Damage Per Level	poisDmgLvl
+res-cold/lvl			Cold Damage Per Level	coldDmgLvl
+res-fire/lvl			Fire Resistance Per Level	fireResLvl
+res-ltng/lvl			Lightning Resistance Per Level	lightResLvl
+res-pois/lvl			Poison Resistance Per Level	poisResLvl
+abs-cold/lvl			Absorb Cold Per Level	coldAbsLvl
+abs-fire/lvl			Absorb Fire Per Level	fireAbsLvl
+abs-ltng/lvl			Absorb Lightning Per Level	lightAbsLvl
+abs-pois/lvl			Absorb Poison Per Level	poisAbsLvl
+thorns/lvl			Thorns Per Level	ThornsLvl
+gold%/lvl			%Goldfind Per Level	%GoldLvl
+mag%/lvl			%Magic Find Per Level	%MFLvl
+regen-stam/lvl			Recover Stamina Per Level	StamLvl
+stam/lvl			Maximum Stamina Per Level	StamMaxLvl
+dmg-dem/lvl			Damage To Demons Per Level	DmgDemonLvl
+dmg-und/lvl			Damage To Undead Per Level	DmgUndeadLvl
+att-dem/lvl			Attack Against Demons Per Level	AttDemonLvl
+att-und/lvl			Attack Against Undead Per Level	AttUndeadLvl
+crush/lvl			Crushing Blow Per Level	CrushingLvl
+wounds/lvl			Open Wounds Per Level	WoundsLvl
+kick/lvl			Kick Damage Per Level	KickLvl
+deadly/lvl			Deadly Strike Per Level	DSLvl
+gems%/lvl			%Chance Of Finding Gems Per Level	%GemFindLvl
+rep-dur			Auto-Repairs	Repairs
+rep-quant			Replenishes Quantity	RepQuant
+stack			Stack	Stack
+item%			%Chance Of Finding Item	%ItemFind
+dmg-slash			Slashing Damage	DmgSlash
+dmg-slash%			%Slashing Damage	%DmgSlash
+dmg-crush			Crushing Damage	DmgCrush
+dmg-crush%			%Crushing Damage	%DmgCrush
+dmg-thrust			Thrusting Damage	ThrustingDmg
+dmg-thrust%			%Thrusting Damage	%ThrustingDmg
+abs-slash			Absorb Slashing Damage	AbsSlashDmg
+abs-crush			Absorb Crushing Damage	AbsCrushDmg
+abs-thrust			Absorb Thrusting Damage	AbsThrustingDmg
+abs-slash%			%Absorb Slashing Damage	%AbsSlashDmg
+abs-crush%			%Absorb Crushing Damage	%AbsCrushDmg
+abs-thrust%			%Absorb Thrusting Damage	%AbsThrustDmg
+ac/time			Armor By Time Of Day	ArmorTime
+ac%/time			%Armor By Time Of Day	%ArmorTime
+hp/time			Max HP By Time Of Day	HPMaxTime
+mana/time			Max MP By Time Of Day	MPMaxTime
+dmg/time			Damage By Time Of Day	DmgTime
+dmg%/time			%Damage By Time Of Day	%DmgTime
+str/time			Strength By Time Of Day	StrTime
+dex/time			Dexterity By Time Of Day	DexTime
+enr/time			Energy By Time Of Day	NrgTime
+vit/time			Vitality By Time Of Day	VitTime
+att/time			Attack By Time Of Day	AttTime
+att%/time			Attack By Time Of Day	%AttTime
+dmg-cold/time			Cold Damage By Time Of Day	coldDmgTime
+dmg-fire/time			Fire Damage By Time Of Day	fireDmgTime
+dmg-ltng/time			Lightning Damage By Time Of Day	lightDmgTime
+dmg-pois/time			Poison Damage By Time Of Day	poisDmgTime
+res-cold/time			Cold Resistance By Time Of Day	coldResTime
+res-fire/time			Fire Resistance By Time Of Day	fireResTime
+res-ltng/time			Lightning Resistance By Time Of Day	lightResTime
+res-pois/time			Poison Resistance By Time Of Day	poisResTime
+abs-cold/time			Absorb Cold By Time Of Day	coldAbsTime
+abs-fire/time			Absorb Fire By Time Of Day	fireAbsTime
+abs-ltng/time			Absorb Lightning By Time Of Day	lightAbsTime
+abs-pois/time			Absorb Poison By Time Of Day	poisAbsTime
+gold%/time			%Goldfind By Time Of Day	%GoldTime
+mag%/time			%MagicFind By Time Of Day	%MFTime
+regen-stam/time			Stamina Regen By Time Of Day	StamRegTime
+stam/time			Stamina Max By Time Of Day	StamMaxTime
+dmg-dem/time			Damage To Demons By Time Of Day	DmgDemonTime
+dmg-und/time			Damage To Undead By Time Of Day	DmgUndTime
+att-dem/time			Attack Against Demons By Time Of Day	AttDemonTime
+att-und/time			Attack Against Undead By Time Of Day	AttUndTime
+crush/time			Crushing Blow By Time Of Day	CrushTime
+wounds/time			Open Wounds By Time Of Day	WoundsTime
+kick/time			Kick Damage By Time Of Day	KickTime
+deadly/time			Deadly Strike By Time Of Day	DSTime
+gems%/time			%Gem Chance By Time Of Day	%GemTime
+pierce-fire			%Reduced Fire Resistance	%redFireRes
+pierce-ltng			%Reduced Lightning Resistance	%redLightRes
+pierce-cold			%Reduced Cold Resistance	%redColdRes
+pierce-pois			%Reduced Lightning Resistance	%redLightRes
+dmg-mon			Damage Against Monster Type	DmgMon
+dmg%-mon			%Damage Against Monster Type	%DmgMon
+att-mon			Attack Against Monster Type	AttMon
+att%-mon			%Attack Against Monster Type	%AttMon
+ac-mon			Defense Against Monster Type	DefMon
+ac%-mon			%Defense Against Monster Type	%DefMon
+indestruct			Indestructible	Indestructible
+charged			Charged	Charged
+extra-fire			Fire Skill Damage	fireSkillDmg
+extra-ltng			Lightning Skill Damage	lightSkillDmg
+extra-cold			Cold Skill Damage	coldSkillDmg
+extra-pois			Poison Skill Damage	poisSkillDmg
+dmg-elem			Elemental Damage	eleDmg
+dmg-elem-min			Minimum Elemental Damage	eleMinDmg
+dmg-elem-max			Maximum Elemental Damage	eleMaxDmg
+all-stats			All Attributes	allStats
+addxp			Increased EXP	EXP
+heal-kill			Life On Kill	HPKill
+cheap			%Reduced Vendor Prices	%Prices
+rip			Monsters Rest In Peace	MonRip
+att-mon%			%Attack VS Monster Type	%AttMon
+dmg-mon%			%Damage VS Monster Type	%DmgMon
+kill-skill			Skill On Kill	SkillOnKill
+death-skill			Skill On Death	SkillOnDeath
+levelup-skill			Skill On Level	SkillOnLvl
+skill-rand			Skill Random	SkillRnd
+fade			Fade	Fade
+levelreq			Level Requirement	LvlReq
+ethereal			Ethereal	ETH
+oskill			oskill	oskill
+state			state	state
+randclassskill			randclassskill	randclassskill
+armorclass			Armor	Arm
+armorclass_vs_missile			Defense VS Missiles	MissileDef
+armorclass_vs_hth			Defense VS Hand To Hand	HTHDef
+normal_damage_reduction			Reduced Damage Taken	RedDmg
+damageresist			Resist Damage	DmgRes
+item_armor_percent			%Enhanced Defense	%EDef
+magic_damage_reduction			Reduced Magic Damage	RedMagDmg
+strength			Strength	Str
+dexterity			Dexterity	Dex
+vitality			Vitality	vitality
+energy			Energy	Nrg
+maxmana			Max MP	MPMax
+item_maxmana_percent			%Max MP	%MPMax
+maxhp			Max HP	HPMax
+item_maxhp_percent			%Max HP	%HPMax
+tohit			Attack Rating	Att
+toblock			Block Rate	BlockR
+coldmindam			Cold Min Damage	cMinDmg
+coldmaxdam			Cold Max Damage	cMaxDmg
+coldlength			Cold Duration	cDur
+firemindam			Fire Min Damage	fMinDmg
+firemaxdam			Fire Max Damage	fMaxDmg
+lightmindam			Lightning Min Damage	lMinDmg
+lightmaxdam			Lightning Max Damage	lMaxDmg
+poisonmindam			Poison Min Damage	pMinDmg
+poisonmaxdam			Poison Max Damage	pMaxDmg
+poisonlength			Poison Duration	pDur
+item_damagetomana			Damage Taken Goes To Mana	DmgToMana
+fireresist			Fire Resistance	fireRes
+maxfireresist			Fire Max Resistance	fireMaxRes
+lightresist			Lightning Resistance	lightRes
+maxlightresist			Lightning Max Resistance	lightMaxRes
+coldresist			Cold Resistance	coldRes
+maxcoldresist			Cold Max Resistance	coldMaxRes
+magicresist			Magic Resistance	magicRes
+maxmagicresist			Magic Max Resistance	magicMaxRes
+poisonresist			Poison Resistance	poisRes
+maxpoisonresist			Poison Max Resistance	pMaxRes
+item_absorbfire_percent			%Absorb Fire	%fireAbs
+item_absorbfire			Absorb Fire	fireAbs
+item_absorblight_percent			%Absorb Lightning	%lightAbs
+item_absorblight			Absorb Lightning	lightAbs
+item_absorbmagic_percent			%Absorb Magic	%magicAbs
+item_absorbmagic			Absorb Magic	magicAbs
+item_absorbcold_percent			%Absorb Cold	%coldAbs
+item_absorbcold			Absorb Cold	coldAbs
+maxdurability			Max Durability	maxDur
+item_maxdurability_percent			%Max Durability	%maxDur
+hpregen			HP Regen	HPReg
+item_attackertakesdamage			Thorns	Thorns
+item_fasterattackrate			Increased Attack Speed	IAS
+item_goldbonus			%Increased Gold Found	%Goldfind
+item_magicbonus			%Increased MF	%MF
+item_knockback			Knockback	Knockback
+staminarecoverybonus			Stamina Recovery Bonus	what_a_useless_stat
+manarecoverybonus			Mana Recovery Bonus	MPRegBonus
+maxstamina			Max Stamina	MaxStam
+item_timeduration			Time Duration?	TDuration
+manadrainmindam			Mana Leech	ML
+lifedrainmindam			Life Leech	LL
+item_addclassskills			Add Class Skills	cSkills
+item_doubleherbduration			Double Herb Duration	What the fuck
+item_lightradius			Light Radius	LRadius
+item_lightcolor			Light Color	LColor
+item_req_percent			Item Requirement	Req
+item_fastermovevelocity			Faster Run Walk	FRW
+item_fastergethitrate			Faster Hit Recovery	FHR
+item_fasterblockrate			Block Rate	BlockRate
+item_fastercastrate			Faster Cast Rate	FCR
+item_poisonlengthresist			Reduced Poison Duration	RedPoisDur
+item_normaldamage			Damage	Dmg
+item_howl			Howl	Howl
+item_stupidity			Stupidity	Stupidity
+item_ignoretargetac			Ignore Target Defense	Ignore Target Defense
+item_fractionaltargetac			% Lower Target Defense	%RedDef
+item_preventheal			Prevent Monster Heal	NoHeal
+item_halffreezeduration			Half Freeze Duration	FreezeHalf
+item_tohit_percent			%Attack Rating	%Att
+item_damagetargetac			Damage VS Armor Type	DmgToType
+item_demondamage_percent			%Damage VS Demons	%DmgDemon
+item_undeaddamage_percent			%Damage VS Undead	%DmgUnd
+item_demon_tohit			Attack Rating VS Demons	AttDemon
+item_undead_tohit			Attack Rating VS Undead	AttUnd
+item_throwable			Throwable	Throwable
+item_elemskill			Elemental Skills	EleSkills
+item_allskills			All Skills	AllSkills
+item_attackertakeslightdamage			Lightning Thorns	lThorns
+item_freeze			Freeze Target	freeze
+item_openwounds			Open Wounds	Wounds
+item_crushingblow			Crushing Blow	crushing
+item_kickdamage			Kick Damage	kickDmg
+item_manaafterkill			Mana On Kill	MPKill
+item_healafterdemonkill			HP On Demon Kill	HPKillDemon
+item_extrablood			Extra Blood	extraBlood
+item_deadlystrike			Deadly Strike	DS
+item_slow			Slows Target	Slow
+item_cannotbefrozen			Cannot Be Frozen	Cannot Be Frozen
+item_staminadrainpct			%Drain Stamina	%DrStam
+item_reanimate			Reanimate	Reanimate
+item_pierce			Pierce	Pierce
+item_magicarrow			Fires Magical Arrows	mArrows
+item_explosivearrow			Fires Explosive Arrows	expArrows
+item_singleskill			Add Skill	skill
+item_addskill_tab			Add Skill Tab	Skills
+item_aura			Aura	Aura
+item_skillonattack			Skill On Attack	SkillOnAtt
+item_skillonhit			Skill On Strike	SkillOnHit
+item_skillongethit			Skill When Struck	SkillStruck
+item_numsockets			Sockets	Sockets
+magicmindam			Magic Min Damage	mMinDmg
+item_throw_mindamage			Throw Min Damage	tMinDmg
+mindamage			Minimum Damage	minDmg
+item_armor_perlevel			Armor Per Level	ArmLvl
+item_armorpercent_perlevel			%Armor Per Level	%ArmLvl
+item_hp_perlevel			HP Per Level	HPLvl
+item_mana_perlevel			MP Per Level	MPLvl
+item_maxdamage_perlevel			Max Damage Per Level	DmgMaxLvl
+item_maxdamage_percent_perlevel			%Max Damage Per Level	%DmgMaxLvl
+item_strength_perlevel			Strength Per Level	StrLvl
+item_dexterity_perlevel			Dexterity Per Level	DexLvl
+item_energy_perlevel			Energy Per Level	NrgLvl
+item_vitality_perlevel			Vitality Per Level	VitLvl
+item_tohit_perlevel			Attack Rating Per Level	AttLvl
+item_tohitpercent_perlevel			%Attack Rating Per Level	%AttLvl
+item_cold_damagemax_perlevel			Cold Max Damage Per Level	cMaxDmgLvl
+item_fire_damagemax_perlevel			Fire Max Damage Per Level	fMaxDmgLvl
+item_ltng_damagemax_perlevel			Lightning Max Damage Per Level	lMaxDmgLvl
+item_pois_damagemax_perlevel			Poison Max Damage Per Level	pMaxDmgLvl
+item_resist_cold_perlevel			Cold Resistance Per Level	coldResLvl
+item_resist_fire_perlevel			Fire Resistance Per Level	fireResLvl
+item_resist_ltng_perlevel			Lightning Resistance Per Level	lightResLvl
+item_resist_pois_perlevel			Poison Resistance Per Level	poisResLvl
+item_absorb_cold_perlevel			Absorb Cold Per Level	coldAbsLvl
+item_absorb_fire_perlevel			Absorb Fire Per Level	fireAbsLvl
+item_absorb_ltng_perlevel			Absorb Lightning Per Level	lightAbsLvl
+item_absorb_pois_perlevel			Absorb Poison Per Level	poisAbsLvl
+item_thorns_perlevel			Thorns Per Level	ThornsLvl
+item_find_gold_perlevel			%Gold Find Per Level	%GoldfindLvl
+item_find_magic_perlevel			%MF Per Level	%MFLvl
+item_regenstamina_perlevel			Regenerate Stamina Per Level	stamRegenLvl
+item_stamina_perlevel			Stamina Per Level	stamLvl
+item_damage_demon_perlevel			Damage VS Demons Per Level	DmgDemonsLvl
+item_damage_undead_perlevel			Damage VS Undeads Per Level	DmgUndLvl
+item_tohit_demon_perlevel			Attack Rating VS Demons Per Level	AttDemonLvl
+item_tohit_undead_perlevel			Attack Rating VS Undead Per Level	AttUndLvl
+item_crushingblow_perlevel			Crushing Blow Per Level	CrushingLvl
+item_openwounds_perlevel			Open Wounds Per Level	WoundsLvl
+item_kick_damage_perlevel			Kick Damage Per Level	KickDmgLvl
+item_deadlystrike_perlevel			Deadly Strike Per Level	DSLvl
+item_replenish_durability			Repairs Itself	RepairSelf
+item_replenish_quantity			Replenishes Quantity	RepQuant
+item_extra_stack			Extra Stack	ExtStack
+passive_fire_pierce			Reduce Target Fire Resistance	fireResPierce
+passive_ltng_pierce			Reduce Target Lightning Resistance	lightResPierce
+passive_cold_pierce			Reduce Target Cold Resistance	coldResPierce
+passive_pois_pierce			Reduce Target Poison Resistance	poisResPierce
+item_charged_skill			Charge Skill	chSkill
+passive_fire_mastery			Fire Mastery	fireSkillDmg
+passive_ltng_mastery			Lightning Mastery	lightSkillDmg
+passive_cold_mastery			Cold Mastery	coldSkillDmg
+passive_pois_mastery			Poison Mastery	poisSkillDmg
+item_addexperience			Increased Experience	EXP
+item_healafterkill			HP On Kill	HPKill
+item_reducedprices			Reduced Vendor Prices	redPrices
+item_restinpeace			Slain Monsters Rest In Peace	MonRIP
+attack_vs_montype			Attack Rating VS Type	AttVType
+damage_vs_montype			Damage VS Type	DmgVType
+item_skillonkill			Skill On Kill	SkillKill
+item_skillondeath			Skill On Death	SkillDeath
+item_skillonlevelup			Skill On Level Up	SkillLvl
+item_levelreq			Level Requirement	ReqLvl
+item_nonclassskill			Non-Class Skill	ncSkill
