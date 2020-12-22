@@ -31,4 +31,5 @@ You can enable "Export on Menu" to export your stash every time you hit esc, if 
 I'm sure there are some bugs, feel free to report them and I'll get around to fixing it eventually.
 
 Happy trading!
-Claessic
+
+-Claessic
