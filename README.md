@@ -22,7 +22,7 @@ You can enable "Export on Menu" to export your stash every time you hit esc, if 
 ![Screenshot](ReadmeImages/PD2SalesMoreClicksExample.png)
 10. To decrease the price of the item, right-click the price. If amount reaches 0, it'll be removed.
 11. Item can also be removed by selecting it in the "Sales" column and clicking the remove button below.
-12. Now it gets interesting. The exports are currently not working correctly, so some of the stats are exported incorrectly. To circumvent this issue, I added editable details for the item. Right-click an item in the sales window, and you'll see your options. It should look like this:
+12. Now it gets interesting. The exports are currently not working correctly, so some of the stats are exported incorrectly. To circumvent this issue, I added editable details for the item. Double-click an item in the sales window, and you'll see your options. It should look like this:
 ![Screenshot](ReadmeImages/PD2SalesStorageDetailsExample.png)
 13. Edit the details to your liking. Toggle each stat on/off for export. Green means it will get exported, red means it's skipped. You can write what you want in the "Append" field, and it'll get written after your item in the export file. You can see an example below.
 14. This step is important. When you're done, click the "Save and Export" button.
