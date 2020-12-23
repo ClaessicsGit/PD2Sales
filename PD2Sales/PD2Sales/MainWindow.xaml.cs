@@ -853,6 +853,9 @@ namespace PD2Sales
                 case "AddForBerButton":
                     AddToSales(SalesPrice.Ber);
                     break;
+                case "AddForJahButton":
+                    AddToSales(SalesPrice.Jah);
+                    break;
                 case "AddForChamButton":
                     AddToSales(SalesPrice.Cham);
                     break;
